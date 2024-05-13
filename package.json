@@ -1,0 +1,22 @@
+{
+  "name": "techchitr",
+  "version": "1.0.0",
+  "description": "\"# techchitr\" \r # techchitr",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leenamandloi/techchitr.git"
+  },
+  "author": "Leena Mandloi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leenamandloi/techchitr/issues"
+  },
+  "homepage": "https://github.com/leenamandloi/techchitr#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
